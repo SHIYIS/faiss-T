@@ -132,5 +132,3 @@ Create a system that leverages FAISS for efficient vector similarity search and 
 - **Hugging Face Transformers**: For using and fine-tuning transformer models.
 - **Pandas, NumPy**: For data handling and processing.
 - **Flask/Django**: If you decide to create a web-based UI.
-
-By following these steps, you can develop "faiss-T" to efficiently handle vector similarity searches using state-of-the-art transformer models. 
