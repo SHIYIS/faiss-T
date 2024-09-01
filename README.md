@@ -1,5 +1,5 @@
 # faiss-T
-Faiss-T or the fiesty combo of FAISS and the Transformer model experiments with the powerful capabilities of these two entities.
+Faiss-T or the "fiesty" combo of FAISS and the Transformer model experiments with the powerful capabilities of these two entities.
 
 Upon some inquries and research with the lovely helping hand of ChatGPT. It came to pass that I could utilize both the Facebook's powerful vector search tool with huggingface's transformer model to create something unqiue!
 
