@@ -1,7 +1,7 @@
 # faiss-T
 Faiss-T or the "fiesty" combo of FAISS and the Transformer model experiments with the powerful capabilities of these two entities.
 
-Upon some inquries and research with the lovely helping hand of ChatGPT. It came to pass that I could utilize both the Facebook's powerful vector search tool with huggingface's transformer model to create something unqiue!
+Having done some inquries and research with the lovely helping hand of ChatGPT, it came to pass that I could utilize both the Facebook's powerful vector search tool with huggingface's transformer model to create something unqiue!
 
 Doesn't this sound like a great project idea? "faiss-T" (rhyming with "feisty") could be a powerful tool combining FAISS's fast vector similarity search capabilities with the advanced representation learning of transformers. Here's a basic outline of the project:
 
